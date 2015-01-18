@@ -10,3 +10,5 @@ libraryDependencies ++= Seq(
   "com.twitter" %% "finagle-http" % finagleVersion,
   "com.twitter" %% "finagle-stats" % finagleVersion
 )
+
+assemblySettings
