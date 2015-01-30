@@ -12,3 +12,6 @@ libraryDependencies ++= Seq(
 )
 
 assemblySettings
+
+resolvers +=
+  "Twitter" at "http://maven.twttr.com"
